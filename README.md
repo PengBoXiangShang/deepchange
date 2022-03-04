@@ -1,10 +1,10 @@
-# <center>DeepChange:</center> A Long-term Person Re-identification Benchmark
+# <center>DeepChange:</center> A Large Long-Term Person Re-Identification Benchmark with Clothes Change
 
 ![](https://img.shields.io/badge/language-Python-{green}.svg)
 
 <div align=center><img src="https://github.com/PengBoXiangShang/deepchange/blob/main/figures/deepchange.gif" width = 80% height = 80% /></div>
 
-This is the official project page of the paper ["DeepChange: A Long-term Person Re-identification Benchmark"](https://arxiv.org/abs/2105.14685).
+This is the official project page of the paper ["DeepChange: A Large Long-Term Person Re-Identification Benchmark with Clothes Change"](https://arxiv.org/abs/2105.14685).
 <br/>
 <br/>
 <br/>
@@ -61,7 +61,7 @@ Figure D. Image pairs of the specific persons with simultaneous clothes and hair
 <br/>
 
 ## Download
-Users need to download and sign our [**DeepChange Dataset Access Agreement**](https://github.com/PengBoXiangShang/deepchange/blob/main/DeepChangeAccessAgreement.pdf), and send it to XU Peng (peng.xu [AT] aliyun dOt com) with a title "DeepChange Dataset Access Agreement". We will verify the requests and contact users with the downloading **links** and other associate **documents**. Users should use their institutional email address to contact us.
+Users need to download and sign our [**DeepChange Dataset Access Agreement**](https://github.com/PengBoXiangShang/deepchange/blob/main/DeepChangeAccessAgreement.pdf), and send it to XU Peng (peng.xu [AT] aliyun dOt com) with a title "DeepChange Dataset Access Agreement". We will verify the requests and contact users with the downloading **links** and other associate **documents**. Users should use their institutional email address to contact us. We will reply within 24 hours, and the download link is also valid for 24 hours, so after sending this request, please watch your email.
 <br/>
 <br/>
 <br/>
@@ -78,7 +78,7 @@ We will release some codes and tools for this dataset very soon.
 If you would like to use this dataset, please cite the following papers:
 ```
 @article{xu2021long,
-  title={DeepChange: A Long-term Person Re-identification Benchmark},
+  title={DeepChange: A Large Long-Term Person Re-Identification Benchmark with Clothes Change},
   author={Xu, Peng and Zhu, Xiatian},
   journal={arXiv preprint arXiv:2105.14685},
   year={2021}
