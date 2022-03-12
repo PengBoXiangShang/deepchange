@@ -61,7 +61,7 @@ Figure D. Image pairs of the specific persons with simultaneous clothes and hair
 <br/>
 
 ## Download
-Users need to download and sign our [**DeepChange Dataset Access Agreement**](https://github.com/PengBoXiangShang/deepchange/blob/main/DeepChangeAccessAgreement.pdf), and send it to XU Peng (peng.xu [AT] aliyun dOt com) with a title "DeepChange Dataset Access Agreement". We will verify the requests and contact users with the downloading **links** and other associate **documents**. Users should use their institutional email address to contact us. We will reply within 24 hours, and the download link is also valid for 24 hours, so after sending this request, please watch your email.
+Users need to download and sign our [**DeepChange Dataset Access Agreement**](https://github.com/PengBoXiangShang/deepchange/blob/main/DeepChangeAccessAgreement.pdf), and send it to XU Peng (peng.xu [AT] aliyun dOt com) with a title "DeepChange Dataset Access Agreement". We will verify the requests and contact users with the downloading **links** and other associate **documents**. Users should use your **institutional email address** to contact us. We will reply within 24 hours, and the download link is also valid for 24 hours, so after sending this request, please watch your email.
 <br/>
 <br/>
 <br/>
