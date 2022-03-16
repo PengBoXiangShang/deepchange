@@ -63,7 +63,7 @@ Figure D. Image pairs of the specific persons with simultaneous clothes and hair
 ## Download
 Users need to download and sign our [**DeepChange Dataset Access Agreement**](https://github.com/PengBoXiangShang/deepchange/blob/main/DeepChangeAccessAgreement.pdf), and send it to XU Peng (peng.xu [AT] aliyun dOt com) with a title "DeepChange Dataset Access Agreement". We will verify the requests and contact users with the downloading **links** and other associate **documents**. Users should use your **institutional email address** to contact us. We will reply within 24 hours, and the download link is also valid for 24 hours, so after sending this request, please watch your email.
 <br/>
-请大家用学校的邮箱发送申请表格。请勿使用163或qq等邮箱发送申请。请字迹工整地且完整地填写申请表格。向我们发送申请后，我们通常会在24小时内回复，授权后下载链接有效期是24小时，所以发送申请后，请关注您的邮箱并及时下载。
+请大家用学校的邮箱发送申请表格。请勿使用163或qq等邮箱发送申请。请字迹工整地且完整地填写申请表格，可直接填写中文，Email 2里请填写一个可以永久联系的私人邮箱。我们通常会在24小时内回复，授权后下载链接有效期是24小时，所以发送申请后，请关注您的邮箱并及时下载。
 <br/>
 <br/>
 <br/>
