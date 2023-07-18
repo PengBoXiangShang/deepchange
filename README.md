@@ -1,10 +1,10 @@
-# <center>DeepChange:</center> A Large Long-Term Person Re-Identification Benchmark with Clothes Change
+# <center>DeepChange:</center>  A Long-Term Person Re-Identification Benchmark with Clothes Change ICCV 2023
 
 ![](https://img.shields.io/badge/language-Python-{green}.svg)
 
 <div align=center><img src="https://github.com/PengBoXiangShang/deepchange/blob/main/figures/deepchange.gif" width = 80% height = 80% /></div>
 
-This is the official project page of the paper ["DeepChange: A Large Long-Term Person Re-Identification Benchmark with Clothes Change"](https://arxiv.org/abs/2105.14685).
+This is the official project page of the paper ["DeepChange: A Long-Term Person Re-Identification Benchmark with Clothes Change"](https://arxiv.org/abs/2105.14685) ICCV 2023.
 <br/>
 <br/>
 <br/>
@@ -78,11 +78,11 @@ We will release some codes and tools for this dataset very soon.
 ## Citations
 If you would like to use this dataset, please cite the following papers:
 ```
-@article{xu2021long,
-  title={DeepChange: A Large Long-Term Person Re-Identification Benchmark with Clothes Change},
+@inproceedings{xu2023deepchange,
+  title={DeepChange: A Long-Term Person Re-Identification Benchmark with Clothes Change},
   author={Xu, Peng and Zhu, Xiatian},
-  journal={arXiv preprint arXiv:2105.14685},
-  year={2021}
+  booktitle={Proceedings of the IEEE international conference on computer vision (ICCV)},
+  year={2023}
 }
 ```
 <br/>
