@@ -4,12 +4,12 @@
 
 <div align=center><img src="https://github.com/PengBoXiangShang/deepchange/blob/main/figures/deepchange.gif" width = 80% height = 80% /></div>
 
-This is the official project page of the paper ["DeepChange: A Long-Term Person Re-Identification Benchmark with Clothes Change"](https://arxiv.org/abs/2105.14685) ICCV 2023.
+This is the official project page of the paper ["DeepChange: A Long-Term Person Re-Identification Benchmark with Clothes Change"](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_DeepChange_A_Long-Term_Person_Re-Identification_Benchmark_with_Clothes_Change_ICCV_2023_paper.html) ICCV 2023.
 <br/>
 <br/>
 <br/>
 <br/>
-Authors: [XU Peng](http://www.pengxu.net/) and [ZHU Xiatian](https://xiatian-zhu.github.io/)
+Authors: [XU Peng](https://scholar.google.com/citations?user=9_v4tC0AAAAJ) and [ZHU Xiatian](https://xiatian-zhu.github.io/)
 <br/>
 <br/>
 <br/>
@@ -79,9 +79,10 @@ We will release some codes and tools for this dataset very soon.
 If you would like to use this dataset, please cite the following papers:
 ```
 @inproceedings{xu2023deepchange,
-  title={DeepChange: A Long-Term Person Re-Identification Benchmark with Clothes Change},
+  title={Deepchange: A long-term person re-identification benchmark with clothes change},
   author={Xu, Peng and Zhu, Xiatian},
-  booktitle={Proceedings of the IEEE international conference on computer vision (ICCV)},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages={11196--11205},
   year={2023}
 }
 ```
